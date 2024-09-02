@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-01T21:42:02 IST" name="Default suite" finished-at="2024-09-01T21:43:12 IST" duration-ms="69865">
+    <groups>
+    </groups>
+    <test started-at="2024-09-01T21:42:02 IST" name="Default test" finished-at="2024-09-01T21:43:12 IST" duration-ms="69865">
+      <class name="HeadlessExecution.Headless_HtmUnitDriver">
+        <test-method signature="mtd1()[pri:0, instance:HeadlessExecution.Headless_HtmUnitDriver@4808bc9b]" started-at="2024-09-01T21:42:02 IST" name="mtd1" finished-at="2024-09-01T21:42:53 IST" duration-ms="50791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mtd1 -->
+        <test-method signature="mtd2()[pri:0, instance:HeadlessExecution.Headless_HtmUnitDriver@4808bc9b]" started-at="2024-09-01T21:42:53 IST" name="mtd2" finished-at="2024-09-01T21:43:03 IST" duration-ms="9555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mtd2 -->
+        <test-method signature="mtd3()[pri:0, instance:HeadlessExecution.Headless_HtmUnitDriver@4808bc9b]" started-at="2024-09-01T21:43:03 IST" name="mtd3" finished-at="2024-09-01T21:43:05 IST" duration-ms="2467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mtd3 -->
+        <test-method signature="mtd4()[pri:0, instance:HeadlessExecution.Headless_HtmUnitDriver@4808bc9b]" started-at="2024-09-01T21:43:05 IST" name="mtd4" finished-at="2024-09-01T21:43:12 IST" duration-ms="6991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mtd4 -->
+      </class> <!-- HeadlessExecution.Headless_HtmUnitDriver -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
